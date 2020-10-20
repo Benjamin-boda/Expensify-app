@@ -2,7 +2,7 @@
 
 Expensify allows you to control your expenses. You can add, edit and remove them.
 
-Link : https://game-manager-boda.herokuapp.com/
+Link : https://expensify-boda.herokuapp.com/
 
 # Installation
 
