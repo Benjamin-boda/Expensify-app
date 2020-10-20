@@ -1,10 +1,10 @@
-#Expensify
+# Expensify
 
 Expensify allows you to control your expenses. You can add, edit and remove them.
 
 Link : https://game-manager-boda.herokuapp.com/
 
-#Installation
+# Installation
 
 To get the project up and running, and view components in the browser, complete the following steps:
 
